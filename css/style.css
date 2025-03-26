@@ -8,36 +8,3 @@
 .title .description {
   color: gray;
 }
-
-.card {
-  padding: 1rem;
-  border-radius: 0%;
-  border: 0px;
-  height: 100%;
-  color: white;
-}
-.white {
-  color: black;
-  background-color: white;
-}
-.gray {
-  background-color: #6b757d;
-}
-.blue {
-  background-color: #0d6ffd;
-}
-.green {
-  background-color: #198855;
-}
-.pink {
-  background-color: #dc3544;
-}
-.azure {
-  background-color: #0dcaf1;
-}
-.yellow {
-  background-color: #ffc107;
-}
-.black {
-  background-color: #212528;
-}
